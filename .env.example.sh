@@ -1,0 +1,6 @@
+BOT_TOKEN=ваш_токен_бота
+YC_FOLDER_ID=ваш_folder_id_яндекс_облака
+YC_IAM_TOKEN=ваш_iam_токен
+DEEPSEEK_API_KEY=ваш_ключ_deepseek
+AI_PROVIDER=deepseek
+WEBHOOK_SECRET=секретный_токен_для_вебхука
